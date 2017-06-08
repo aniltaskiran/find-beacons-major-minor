@@ -18,7 +18,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     var locationManager: CLLocationManager!
     
     let uuid = UUID(uuidString: "B0702880-A295-A8AB-F734-031A98A512DE")!
-    // You can change uuid for your product
+    // You must change uuid for your product
     
     override func viewDidLoad() {
         super.viewDidLoad()
