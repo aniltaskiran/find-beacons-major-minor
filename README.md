@@ -1,7 +1,7 @@
 # Find Beacon's Major and Minor Values
 
 
-[if you change this part you can use program for your product.](https://github.com/aniltaskiran/find-beacons-major-minor/blob/master/Beacon's%20Major-Minor/ViewController.swift)
+[if you change this part you can use program for your product.](https://github.com/aniltaskiran/find-beacons-major-minor/blob/master/Beacon's%20Major-Minor/ViewController.swift#L20)
 
 ```swift
     let uuid = UUID(uuidString: "B0702880-A295-A8AB-F734-031A98A512DE")!
