@@ -8,6 +8,8 @@
     // You must change uuid for your product
 ```
 
+### Or you can create random uuid to find nearest beacons. It's my future plan, i will do that.
+
 
 I used [MactsAsBeacon](https://github.com/timd/MactsAsBeacon) which is tiny app to turn a Bluetooth LE-equipped Mac into an iBeacon.
 
